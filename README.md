@@ -1,0 +1,2 @@
+# finzix
+finzix-privacy-policy
