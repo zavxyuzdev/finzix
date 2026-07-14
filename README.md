@@ -1,4 +1,5 @@
 # finzix
+
 Terms & Conditions
 These terms and conditions apply to the Finzix app for mobile devices, together with any related services operated by Zavxyuz (collectively, the "Application"). Zavxyuz is hereby referred to as the "Service Provider".
 
@@ -161,5 +162,3 @@ These terms and conditions are effective as of 2026-07-14
 
 Contact Us
 If you have any questions or suggestions about the Terms and Conditions, please do not hesitate to contact the Service Provider at zavxyuz.dev@gmail.com.
-
-
